@@ -1,3 +1,3 @@
-<p align="left">👋Hi, I'm Shanchita!</p>
+<p align="left">👋Hello, I'm Shanchita!</p>
 
 ###
